@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King, in St. James's chappel, January 30th, 1698/9 by Samuel Bradford ...</title>
+            <author>Bradford, Samuel, 1652-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29108</idno>
+            <idno type="STC">Wing B4121</idno>
+            <idno type="STC">ESTC R19689</idno>
+            <idno type="EEBO-CITATION">12115713</idno>
+            <idno type="OCLC">ocm 12115713</idno>
+            <idno type="VID">54292</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54292)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 759:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King, in St. James's chappel, January 30th, 1698/9 by Samuel Bradford ...</title>
+                  <author>Bradford, Samuel, 1652-1731.</author>
+               </titleStmt>
+               <extent>[2], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.L. for Matt. Wotton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  O.T. --  Proverbs XXIV, 21 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54292:1"/>
+            <p>A SERMON Preached before the KING, In St. <hi>James</hi>'s Chappel, <hi>January</hi> 30<hi rend="sup">th.</hi> 1698/9.</p>
+            <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL BRADFORD,</hi> Rector of St. <hi>Mary le Bow.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by His Majeſty's Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. L.</hi> for <hi>Matt. Wotton</hi> at the <hi>Three Daggers</hi> near the <hi>Temple-Gate</hi> in <hi>Fleetſtreet,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:54292:2"/>
+            <pb n="1" facs="tcp:54292:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROV. xxiv. 21.</hi>
+                  </bibl>
+                  <p>My Son, fear thou the Lord and the King: And meddle not with them that are given to change.</p>
+               </q>
+            </epigraph>
+            <p>THESE Words of <hi>Solomon</hi> contain Three excellent Rules, for the Direction of our Practice, which, if duely obſerv'd and com<g ref="char:EOLhyphen"/>ply'd with, would conduce very much to the happineſs of Mankind, whether conſider'd, every Man in his ſingle Capacity, or as Members of Society. In diſcourſing of them, I propoſe the following Method.</p>
+            <list>
+               <item>I. To conſider each of theſe Directions apart, ſhew<g ref="char:EOLhyphen"/>ing what <hi>Solomon</hi> means by <hi>fearing the Lord,</hi> by <hi>fearing the King,</hi> and by <hi>not meddling with them that are given to change;</hi> taking in alſo, as I go along, the Reaſons upon which theſe Directions are grounded.</item>
+               <item>II. To make ſuch Application of my Diſcourſe, as may be ſuitable to the preſent Occaſion.</item>
+            </list>
+            <p n="1">I. To begin with the Explication of the Directions given in the Text. And,</p>
+            <p n="1">
+               <pb n="2" facs="tcp:54292:3"/> 1. To conſider what <hi>Solomon</hi> means, by <hi>fearing the Lord,</hi> and what Obligations we are under to comply with this Direction.</p>
+            <p>
+               <hi>The fear of the Lord</hi> is generally taken in the Sa<g ref="char:EOLhyphen"/>cred Writings, for the whole of Religion. Thus the royal Pſalmiſt,
+<note place="margin">Pſal. 111.10.</note> 
+               <hi>The fear of the Lord is the beginning of Wiſdom: a good Underſtanding have all they, that do his Commandments;</hi> where <hi>the fear of the Lord</hi> in the former part of the Verſe, is explain'd by <hi>doing his Commandments,</hi>
+               <note place="margin">Job 28.28. Eccl. 12.13.</note> in the latter part of it. And the like we find in divers other places.</p>
+            <p>And the Reaſon is obvious. For as all Religion hath reference to God as its Object, ſo <hi>the fear of God</hi> is the firſt Principle of Religion; by which <hi>Fear</hi> is to be underſtood, not a meer Dread of Almighty and Irreſiſtible Power; but an aweful regard alſo to all the other Divine Attributes and Perfections.</p>
+            <p>Thus, <hi>the fear of God</hi> implies a great ſenſe of his infinite Knowledge and Wiſdom, an apprehenſion of his Omnipreſence, that he beholds us whereſoever we are, and obſerves what we are doing, looking into our Hearts, and knowing our Thoughts afar off. It includes a reſpect to the perfect Holineſs and Purity of the Divine Nature, his love of Goodneſs, and his hatred of all that's Evil; as alſo a belief of his im<g ref="char:EOLhyphen"/>partial Juſtice and Righteouſneſs, as he is the Lord and Governor of the Univerſe. It contains in it an humble Reverence towards the Divine Goodneſs, con<g ref="char:EOLhyphen"/>ſidering God as the Author of all that's Good, as the
+<pb n="3" facs="tcp:54292:3"/>bountiful Maker and Preſerver of every Creature, and the tender and compaſſionate Father of his intellectual Off-ſpring. In a word; <hi>The fear of God</hi> is a regard towards the Divine Being of the ſame kind, though far exceeding it in degree, with <hi>that</hi> of a dutiful Child towards a wiſe and good Parent.</p>
+            <p>And this may well be put for the whole of Reli<g ref="char:EOLhyphen"/>gion, becauſe it will neceſſarily produce in us all reli<g ref="char:EOLhyphen"/>gious Diſpoſitions, and diſpoſe us to every kind of religious Practice.</p>
+            <p>The Man who thus <hi>fears the Lord,</hi> will carefully abſtain from whatſoever he knows, or ſuſpects to be diſpleaſing to him, and will readily comply with all the intimations of his Will; he will earneſtly deſire, and diligently ſeek to know the Will of God, in order to the directing his Practice accordingly; he will devoutly reſign himſelf to his Diſpoſal, ſubmit to his Government, and have reſpect to all his Com<g ref="char:EOLhyphen"/>mands.</p>
+            <p>And certainly there is all the reaſon in the World, that we ſhould thus <hi>fear the Lord.</hi> The very men<g ref="char:EOLhyphen"/>tion of the Name of God carries in it Reaſon enough. It is, as <hi>Moſes</hi> Phraſes it,
+<note place="margin">Deut. 28.58.</note> 
+               <hi>to fear this glorious and fearful Name, the Lord thy God.</hi> For, as the Prophet <hi>Jere<g ref="char:EOLhyphen"/>miah</hi> elegantly expreſſeth it,
+<note place="margin">Jer. 10.6,</note> 
+               <hi>There is none like unto thee, O Lord; thou art great, and thy Name is great in Might. Who would not fear thee, O King. of Nations!</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="7,"/> 
+               <hi>For to thee doth it appertain.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="10,"/> 
+               <hi>The Lord is the true God, he is the living God, and an everlaſting King; at
+<pb n="4" facs="tcp:54292:4"/>his wrath the Earth ſhall tremble, and the Nations ſhall not be able to abide his indignation.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="12,"/> 
+               <hi>He hath made the Earth by his Power, (he hath eſtabliſh'd the World by his Wiſdom,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="13,"/> 
+               <hi>and hath ſtretched out the Heavens by his Diſcretion. When he uttereth his Voice, there is a multitude of Waters in the Heavens, and he cauſeth the Vapors to aſcend from the ends of the Earth; he maketh lightnings with rain, and bringeth forth the wind out of his treaſures.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/> 
+               <hi>He is the former of all things, the Lord of Hoſts is his Name.</hi>
+            </p>
+            <p>Every Attribute of the Divine Nature includes in it a Motive to this Diſpoſition of Soul; his Power, his Holineſs and Juſtice do naturally beſpeak our Fear; his Wiſdom challenges our Reverence; and his Good<g ref="char:EOLhyphen"/>neſs enforceth our dutiful Reſpect. His mighty Works of Creation and Providence excite our Admiration and Regard; and his Authority over us juſtly de<g ref="char:EOLhyphen"/>mands our Obedience. <hi>He made us, and not we our ſelves;</hi>
+               <note place="margin">Pſal. 100.3.</note> 
+               <hi>we are his People, and the Sheep of his Paſture:</hi> 'Tis fit therefore that we ſhould <hi>worſhip, and bow down, and kneel before</hi> this <hi>Lord our Maker.</hi>
+               <note place="margin">Pſal. 95.6.</note> He is the Fa<g ref="char:EOLhyphen"/>ther of our Spirits, he inſpir'd us with all thoſe Faculties, whereby we are enabled to know and to ſerve him. He beſtow'd upon us the excellent Gifts of Underſtanding and Reaſon, and made us voluntary and free Agents; we ought therefore <hi>to glorifie him both with our Bodies and our Spirits,</hi>
+               <note place="margin">1 Cor. 6.20.</note> 
+               <hi>which are his.</hi> It would be the higheſt Injuſtice and Ingratitude at once, it would be monſtrous, both Wickedneſs and Diſingenuity, to alienate our ſelves from him, <hi>in whom we live,</hi>
+               <note place="margin">Acts 17.28.</note> 
+               <hi>and move, and have our Being;</hi> to refuſe to
+<pb n="5" facs="tcp:54292:4"/>ſerve him, whoſe we are, and upon whom we intirely depend, for all we either enjoy, or hope for.</p>
+            <p>Beſides, that <hi>the fear of God</hi> is our Happineſs, as well as our Duty.
+<note place="margin">1 John 5.3.</note> 
+               <hi>His commands are not grie<g ref="char:EOLhyphen"/>vous,</hi> his Laws are all of them <hi>holy,</hi>
+               <note place="margin">Rom. 7.12.</note> 
+               <hi>and juſt, and good;</hi> not the reſults of meer arbitrary Will and Pleaſure; but perfectly agreeable to the frame of our Nature, and the deſign of our Beings; they are ſuch as have a Natural Tendency to make us truly happy, and what, if we were wiſe, we ſhould of our ſelves chuſe to be govern'd by. For <hi>what doth the Lord require of us,</hi>
+               <note place="margin">Micah 6.8.</note> 
+               <hi>but to do juſtly, and to love mercy, and to walk humbly with our God?</hi> that is, in other words, to comply with the deſign of our Nature, and to act agreeably to the eſtate and circumſtances he hath placed us in, to behave our ſelves decently and orderly in this World, and to qualifie our ſelves for a better.</p>
+            <p>If we add one Conſideration more, we ſhall need to ſuperadd nothing after it, to excite in us <hi>the fear of God;</hi> namely, That He will certainly call us to an Account, and diſtribute Rewards or Puniſhments to us, according to our Demeanour. <hi>Solomon</hi> hath taken in all that can be ſaid upon this Subject, in the cloſe of his <hi>Eccleſiaſtes;</hi>
+               <note place="margin">Eccleſ. 12.13, 14.</note> 
+               <hi>Let us hear</hi> (ſays he) <hi>the concluſion of the whole matter: Fear God, and keep his Commandments; for this is the whole of man:</hi> (his whole Buſineſs, and his Felicity) <hi>For God ſhall bring every work into judgment, with every ſecret thing, whe<g ref="char:EOLhyphen"/>ther it be good, or whether it be evil.</hi>
+            </p>
+            <p n="2">
+               <pb n="6" facs="tcp:54292:5"/> 2. Having thus conſider'd the Firſt Direction of the Text, I proceed to the next, <hi>viz.</hi> To ſhew what <hi>Solomon</hi> intends by <hi>fearing the King,</hi> and what Obli<g ref="char:EOLhyphen"/>gations we are under to comply with it.</p>
+            <p>
+               <hi>The fear of God</hi> is our firſt great Duty; that which obligeth us as <hi>Men,</hi> and will diſpoſe us to a compliance with whatever Duties can be incumbent on us, un<g ref="char:EOLhyphen"/>der any Relations or Circumſtances whatſoever. Now next to that of our being Reaſonable Creatures, we are to be conſidered as Members of Society.</p>
+            <p>Societies are either <hi>Natural</hi> or <hi>Political.</hi> By <hi>Na<g ref="char:EOLhyphen"/>tural,</hi> I mean thoſe of particular Families; and he that truly fears God, will beſt diſcharge the Duties of each of the Relations proper to that kind of So<g ref="char:EOLhyphen"/>ciety. But beſides theſe, there are larger Societies of Men, thoſe I mean which are <hi>Civil</hi> or <hi>Political,</hi> to which my Text hath a particular reference. When Families increas'd, Men found it neceſſary to form themſelves into theſe larger Bodies, wherein ſome were to govern, and others to obey, according to ſuch Laws as were agreed upon in the forming of theſe Societies. And according to the Advice of <hi>Solomon,</hi> the Civil Government under which we are plac'd, is to be regarded next to Almighty God, the Supreme Lord and Governor of all. <hi>Fear thou the Lord and the King.</hi>
+            </p>
+            <p>He names <hi>the King,</hi> both becauſe that implies the Form of Government, under which the Jews at that time, and moſt of the Eaſtern Nations liv'd; as alſo becauſe Monarchy has been ever by the wifeſt of
+<pb n="7" facs="tcp:54292:5"/>Men juſtly eſteem'd the moſt natural and perfect Form of Government, eſpecially where regulated by wiſe and wholſome Laws.</p>
+            <p>However, this Rule muſt be acknowledg'd to be of general Uſe, under every Form of Government, the reaſon being the ſame in all places, as will appear when we come to conſider it.</p>
+            <p>So that <hi>to fear the King,</hi> is to have a great regard to the Government we live under, to yield a ready Obedience to all its wholſome Laws and Cuſtoms, ne<g ref="char:EOLhyphen"/>ver willingly to deviate from either, unleſs the Com<g ref="char:EOLhyphen"/>mandments of God, and the Laws or Cuſtoms of Men, ſhould interfere: and if at any time we ſhould fall into ſuch unhappy circumſtances, in that caſe either peaceably to withdraw from the Society, and remove to ſome other, where we may enjoy both a good Conſcience and our Liberty together; or if that may not be, then quietly and patiently to ſubmit to ſuch Penalties as by the Laws of our Country may be inflicted upon us. For it can never be reaſonable, that a particular Man, or any ſmall and inconſiderable part of a Society of Men, ſhould diſturb the Peace of the whole Body, upon account of their own pri<g ref="char:EOLhyphen"/>vate Sentiments.</p>
+            <p>Moreover, <hi>the fear of the King</hi> implies in it a great Reſpect and Reverence to the Perſons of our Gover<g ref="char:EOLhyphen"/>nors, on account of the Character they bear, and the Authority they exerciſe; that we never enter<g ref="char:EOLhyphen"/>tain any unreaſonable Jealouſies concerning them,
+<pb n="8" facs="tcp:54292:6"/>much leſs propagate our own Surmiſes; that we never in the leaſt detract from our Superiors, by open Defamation,
+<note place="margin">Eccl. 10.20.</note> or ſly Suggeſtion. <hi>Curſe not the King,</hi> (ſays <hi>Solomon</hi>) <hi>no, not in thy thought;</hi> much leſs may we <hi>revile the Gods,</hi>
+               <note place="margin">Exod. 22.28.</note> 
+               <hi>or ſpeak evil of the Ruler of our people;</hi> and leaſt of all may we offer any Indignity to our Governors, or do them any Injury by an Overt Act.</p>
+            <p>On the contrary, we are ſtrictly oblig'd to de<g ref="char:EOLhyphen"/>mean our ſelves towards them with all humble and dutiful Reſpect; as much as in us lies, to keep up their Reputation and Honour with others; as far as ever 'tis poſſible, to entertain and cheriſh good Thoughts of them; always to put the faireſt and moſt candid Interpretation upon their Actions, and to believe that they may very often have good reaſons for doing what we cannot give an ac<g ref="char:EOLhyphen"/>count of.</p>
+            <p>I might add, That we are likewiſe oblig'd, with<g ref="char:EOLhyphen"/>out grudging, to contribute our ſhare towards main<g ref="char:EOLhyphen"/>taining the Charges of the Government,
+<note place="margin">Rom. 13.7.</note> 
+               <hi>rendring,</hi> as the Apoſtle expreſſeth it, <hi>to all their dues: tribute to whom tribute is due, cuſtom to whom cuſtom, fear to whom fear, honour to whom honour.</hi>
+            </p>
+            <p>All theſe Duties to our Governors are in them<g ref="char:EOLhyphen"/>ſelves very plain and eaſie to be underſtood, and the Reaſon of them alſo is as evident. For,</p>
+            <p n="1">1. Government is the Ordinance of God. He is the Supreme Lord of all,
+<note place="margin">Pſal. 95.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>a great King above all Gods;</hi>
+               <pb n="9" facs="tcp:54292:6"/>and the Rulers of the Earth are his Deputies and Vicegerents, appointed by him to keep the World in good Order.</p>
+            <p>Of this we are admoniſh'd throughout the Inſpired Writings. St. <hi>Peter</hi> exhorts to this purpoſe;
+<note place="margin">1 Pet. 2.13,</note> 
+               <hi>Submit your ſelves to every ordinance of man, for the Lord's ſake: whether it be to the King, as ſupreme;
+<milestone type="tcpmilestone" unit="unspecified" n="14,"/> or unto Go<g ref="char:EOLhyphen"/>vernors, as unto them that are ſent by him, for the puniſh<g ref="char:EOLhyphen"/>ment of evil-doers,
+<milestone type="tcpmilestone" unit="unspecified" n="15"/> and for the praiſe of them that do well: For ſo is the will of God.</hi> And St. <hi>Paul</hi> in like manner, and upon the ſame Reaſons;
+<note place="margin">Rom. 13.1,</note> 
+               <hi>Let every ſoul be ſubject unto the higher Powers. For there is no Power but of God; the Powers that be, are ordained of God. <milestone type="tcpmilestone" unit="unspecified" n="2,"/> Whoſoever therefore reſiſts the Power, reſiſts the Ordinance of God.</hi> And a little after,
+<milestone type="tcpmilestone" unit="unspecified" n="5,"/> 
+               <hi>Wherefore ye muſt needs be ſubject, not only for wrath, but alſo for conſcience ſake. <milestone type="tcpmilestone" unit="unspecified" n="6"/> For they are God's Miniſters.</hi>
+            </p>
+            <p>Neither is this the Voice of Scripture only, but alſo of Reaſon. 'Tis plain, from the frame and con<g ref="char:EOLhyphen"/>ſtitution of Mankind, that they are made ſit for So<g ref="char:EOLhyphen"/>ciety; and that there can be no Society amongſt Men, without Government; and no Govern<g ref="char:EOLhyphen"/>ment, without ſome to rule, and others to obey. So that God, by the frame in which he hath made us, and the circumſtances he hath placed us in, hath directed us to enter into Society, and in order thereunto to ſet up and maintain Government. And for God to have made it reaſonable and fit for us thus to do, is, in other words, for him to have given us a Law that we ſhould do it: for the Law
+<pb n="10" facs="tcp:54292:7"/>of Nature and Reaſon, which is the Law of God, is nothing elſe but that which is fit for us, with reſpect to our Nature and our Circumſtances. And in this ſence, without all queſtion, Government is the <hi>Ordinance of God,</hi> and Governors are <hi>Ordained by him.</hi>
+            </p>
+            <p n="2">2. Our Duty in this caſe will farther appear, from conſidering, that Government, and conſequently Obe<g ref="char:EOLhyphen"/>dience to it, is evidently for the good of Mankind in general.</p>
+            <p>And in truth, this is the Foundation of Govern<g ref="char:EOLhyphen"/>ment's being <hi>God's Ordinance,</hi> that it is for the good of Men. For God hath appointed nothing, as a general Law to all Mankind, but what is really conducive to their good.</p>
+            <p>It is, as I before obſerv'd, impoſſible, that Society ſhould be maintain'd without Government. There muſt be ſome common Wiſdom to direct and give Laws; and in this diſorderly World in which we live, ſome Publick Authority and Force to ſee thoſe Laws executed. We ſee how difficult it is, to keep Mankind in any tolerable Order, notwithſtanding the many good Laws, which are made and exe<g ref="char:EOLhyphen"/>cuted to that end: What a State then do we ima<g ref="char:EOLhyphen"/>gine the World would be in, if every Man were let looſe, to act according to his Appetites and Paſ<g ref="char:EOLhyphen"/>ſions? which muſt neceſſarily be, unleſs there were Rewards and Puniſhments, appointed by Law-makers, and diſtributed by a ſtanding and ſettled Autho<g ref="char:EOLhyphen"/>rity.
+<pb n="11" facs="tcp:54292:7"/>So that whoſoever goes about to reſiſt or weaken the Government he lives under, does what in him lies to diſſolve the Society, and thereby to reduce things to a ſtate of Anarchy and Con<g ref="char:EOLhyphen"/>fuſion.</p>
+            <p n="3">3. I might add, That Obedience and Submiſſion to Governors, are alſo the Intereſt of every parti<g ref="char:EOLhyphen"/>cular Man, as well as of the Society in general; and that he who weakens the Publick Authority, and thereby injures the Society, will ſooner or later feel the miſchievous conſequences of it him<g ref="char:EOLhyphen"/>ſelf, as he is a Part of the Whole.</p>
+            <p>Beſides, that for a Man to oppoſe Authority, is to expoſe himſelf to the juſt Diſpleaſure of thoſe, who in all probability will be too hard for him. <hi>Wilt thou not be afraid of the Power?</hi>
+               <note place="margin">Rom. 13.3,</note> ſays the Apoſtle, <hi>Do that which is good, and thou ſhalt have praiſe of the ſame:
+<milestone type="tcpmilestone" unit="unspecified" n="4"/> For he is the Miniſter of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the ſword in vain: for he is the Miniſter of God</hi> (in that caſe alſo,) <hi>a Revenger to execute wrath upon him that doeth evil.</hi>
+            </p>
+            <p>Before I proceed to the laſt Direction in the Text, I beg leave to make a ſhort Remark or two, from the manner of <hi>Solomon</hi>'s expreſſing himſelf upon this Subject.</p>
+            <p n="1">1. It is obſervable. That he hath join'd <hi>fearing the Lord, and the King.</hi>
+            </p>
+            <pb n="12" facs="tcp:54292:8"/>
+            <p> Religion towards God, and Loyalty towards our Governors, are both of them excellent things, and 'tis great pity they ſhould ever be parted. But there are too many that pretend to the one, whilſt they are very defective as to the other.</p>
+            <p>Some there are, on the one hand, that are great Pretenders to Religion, or the fear of God, who yet too openly betray their diſregard to their Earthly Superiors, by their forwardneſs to be always ſuſpe<g ref="char:EOLhyphen"/>cting and inſinuating ill things of thoſe in Autho<g ref="char:EOLhyphen"/>rity; by their taking a great freedom to cenſure every thing they don't ſee a reaſon for; by their readineſs to be factious, ſeditious, and mutinous up<g ref="char:EOLhyphen"/>on every ſlight and frivilous pretence.</p>
+            <p>There are ſome, on the other hand, that profeſs a very high regard for their Governors; but have at the ſame time no manner of Reverence for Al<g ref="char:EOLhyphen"/>mighty God, and his Precepts. They ſeem to be of the Opinion, That God will accept of their being good Subjects to the Government they live under, inſtead of all other Duties which he hath enjoin'd them; and that their ſteady Loyalty ſhall make expiation for their Impiety, their Intemperance, and their Lewdneſs.</p>
+            <p>But <hi>let no man deceive himſelf;</hi>
+               <note place="margin">Mat. 22.21.</note> we are <hi>to render to Caeſar the things that are Caeſar's, and to</hi> God <hi>the things which are God's.</hi> We are <hi>to fear the Lord and the King.</hi> And <hi>what God hath</hi> thus <hi>join'd together, let no man</hi> preſume <hi>to put aſunder.</hi>
+            </p>
+            <pb n="13" facs="tcp:54292:8"/>
+            <p> I wiſh I could not ſtill name a third ſort, who in this Age have made themſelves too numerous and too conſpicuous to be overlook'd; I mean, ſuch as <hi>fear</hi> neither <hi>the Lord,</hi> nor <hi>the King;</hi> a Generation of bold Sinners theſe, who having firſt caſt off all regard for the God of Heaven, can after that, very freely, and without the leaſt ſcruple, expreſs their contempt of all his Vicegerents on Earth. I cannot deſcribe them better than in the words of the Apoſtle, Men <hi>that deny the Lord who bought them;</hi>
+               <note place="margin">2 Pet. 2.1, 10.</note> that <hi>walk after the fleſh in the luſts of uncleanneſs, and deſpiſe Government: preſumptuous are they, ſelf-willed, they are not afraid to ſpeak evil of Dignities;</hi> concerning whom, the ſame Inſpired Writer pro<g ref="char:EOLhyphen"/>nounces, That <hi>their judgment lingereth not,</hi>
+               <note place="margin">
+                  <hi>Ver.</hi> 3.</note> 
+               <hi>and their damnation doth not ſlumber.</hi>
+            </p>
+            <p n="2">2. 'Tis farther obſervable, That <hi>the fear of the Lord</hi> is by <hi>Solomon</hi> plac'd the firſt of the two; by which is intimated, That no Man can truly <hi>fear the King,</hi> as he ought to do, unleſs he <hi>fear God,</hi> in the firſt place.</p>
+            <p>The fear of God, or an hearty ſenſe of Religion, is after all, the only Principle that can make us throughly good and faithful Subjects to Princes. That Man only, who acts from Principles of Con<g ref="char:EOLhyphen"/>ſcience, can be ſafely truſted and rely'd upon, all other Principles being defective and uncertain.</p>
+            <p n="3">3. I now proceed to the laſt Direction in my Text, <hi>Meddle not with them that are given to change.</hi>
+            </p>
+            <pb n="14" facs="tcp:54292:9"/>
+            <p> By which is to be underſtood, Men of a fickle and unconſtant Temper, ſuch as have no ſteady Principles to act upon, but are ever diſſatisfy'd with what is preſent, and fond of ſomething new; and when they once have what they ſeem'd eagerly to wiſh, are yet as far from being eaſie as before; the fault not lying (as they fooliſhly imagine) in the ſtate of things without them, but in their own variable and uncertain Minds.</p>
+            <p>And this may refer, either to Religion, or the Civil Government. For the latter Clauſe in the Text looks back upon both the former. <hi>Meddle not with them that are given to change,</hi> either with reſpect to <hi>the fear of the Lord,</hi> or <hi>the fear of the King;</hi> ſuch as lightly and without cauſe affect changes either in Religious or Civil Matters.</p>
+            <p>Lightly, I ſay, and without cauſe; for it is not to be imagin'd, that <hi>Solomon</hi> condemns changing for the better, where there are ſolid Grounds, and weighty Reaſons for doing it.</p>
+            <p>'Tis poſſible for a Man to be educated in a falſe Religion; nay, for ſuch a Religion to be eſtabliſh'd by the Laws of a Country; and then upon the offers of good Reaſon, to change is ſo far from being a fault, that not to do it muſt be the effect of Obſti<g ref="char:EOLhyphen"/>nacy, or ſtrong Prejudice.</p>
+            <p>A Government may be ſo ill managed, or other<g ref="char:EOLhyphen"/>wiſe reduc'd to ſuch ſtreights, that it may be
+<pb n="15" facs="tcp:54292:9"/>impoſſible to ſecure the Society, without admit<g ref="char:EOLhyphen"/>ting ſome variations from the ordinary Rules and Methods of Proceeding; and then the reaſon of things as much warrants a variation from thoſe ordi<g ref="char:EOLhyphen"/>nary Rules and Methods, as at other times it obliges to a ſtrict adherence to them.</p>
+            <p>But then a change is criminal, when 'tis without ſufficient Reaſon, and when the attempting it threa<g ref="char:EOLhyphen"/>tens apparent and imminent Danger to the Society; and thoſe Men act croſs to the Direction of the Text, who affect or endeavour a Change, not from the Reaſon of the Caſe, but from the Levity and Inſta<g ref="char:EOLhyphen"/>bility of their own Tempers.</p>
+            <p>Such Men as theſe the Text adviſeth, <hi>not to meddle with;</hi> that is, not to make them our Intimates, or familiar Companions;
+<note place="margin">1 Cor. 15.33.</note> for <hi>Evil communications cor<g ref="char:EOLhyphen"/>rupt good manners;</hi> and Levity and Inconſtancy may be inſinuated into us, by converſing with Men of ſuch a Diſpoſition. But eſpecially, <hi>Meddle not with them;</hi> that is, Have nothing to do with them in their Projects, be not Partaker of their Counſels, never enter into any League or Conſpiracy with them, in order to the bringing about the Changes which they vainly affect.</p>
+            <p>And the Reaſon of this is very obvious. For,</p>
+            <p>Levity of Mind proceeds from very bad Cauſes. 'Tis uſually an Indication of great want of Judg<g ref="char:EOLhyphen"/>ment, or at leaſt of much raſhneſs and inconſide<g ref="char:EOLhyphen"/>rateneſs;
+<pb n="16" facs="tcp:54292:10"/>and 'tis very often attended with Diſho<g ref="char:EOLhyphen"/>neſty.</p>
+            <p>He who hath a ſound Judgment, and an honeſt Mind, will reſolve within himſelf, that Religion and Government are Matters of high Importance, and not to be trifled with; and he who is not raſh and inconſiderate, will weigh and examine the Prin<g ref="char:EOLhyphen"/>ciples he acts upon, and the Rules he goes by, with reſpect to each of them.</p>
+            <p>Moreover, the Calamitous conſequences to which a cauſeleſs or an unſeaſonable change expoſes a So<g ref="char:EOLhyphen"/>ciety, are enough to deterr all wiſe and good Men, from affecting change themſelves, or <hi>meddling with</hi> thoſe that do ſo.</p>
+            <p>When once the Banks and Mounds of Authority and Government are broke down, all manner of Licentiouſneſs and Diſorder breaks in like a Flood, and 'tis very hard to put a ſtop to ſo violent a Current.</p>
+            <p>Beſides the Danger a Man expoſes himſelf to, with reſpect to his own perſonal Intereſts, is ano<g ref="char:EOLhyphen"/>ther powerful Argument againſt being changeable. This <hi>Solomon</hi> takes notice of in the words following the Text;
+<note place="margin">
+                  <hi>Ver.</hi> 22.</note> 
+               <hi>For their Calamity ſhall riſe ſuddenly, and who knoweth the ruin of them both?</hi> That is, of thoſe that are given to change in either of the former par<g ref="char:EOLhyphen"/>ticulars.</p>
+            <pb n="17" facs="tcp:54292:10"/>
+            <p> To all which I might add one Argument more, againſt <hi>meddling with changeable Men,</hi> viz. that they are not to be truſted. How can I think, that the Man who is unfaithful to God, will be true to me, who am but his fellow-creature? or that he who is falſe to his Prince, will be faithful to me, who am but a private Man? If he can lightly change his Religion, or betray his King and Countrey, he will eaſily be prevail'd with to Sacrifice his Friend, if occaſion be; and that Friend hardly deſerves better, who can be ſo weak, as to truſt ſuch a Man.</p>
+            <p>I have gone through the words of my Text; that which now remains, is to apply what has been ſaid to the preſent Occaſion.</p>
+            <p>The end of ſetting apart ſuch Days as theſe, is, That we may call to Mind our former Sins, and being heartily ſorry for them, may fix in our ſelves ſuch Principles and Reſolutions, as may ſe<g ref="char:EOLhyphen"/>cure our future Practice. It may be fit therefore to reflect upon the Subject of this Day's Solem<g ref="char:EOLhyphen"/>nity, and then to conſider our preſent State and Duty.</p>
+            <p>I will not look beyond the Fact of this Un<g ref="char:EOLhyphen"/>happy Day, tho' I doubt not, but there were many Miſcarriages that preceded. It was not certainly without juſt Cauſe, that God let looſe ſuch an Evil Spirit among the People of this Land, as ex<g ref="char:EOLhyphen"/>cited them to that terrible Civil War, which beſides all the Calamities wherewith it was attended, had
+<pb n="18" facs="tcp:54292:11"/>at laſt ſo Miſerable a Concluſion. But the Crime of the Day is of it ſelf big enough to employ our Meditations.</p>
+            <p>It was a manifeſt and notorious Contradiction to this wholſom Advice in the Text, <hi>Fear thou the Lord, and the King.</hi> When private Men, for ſuch they were, arm'd with Power and Force, but no Legal or Juſt Authority, in direct Oppoſition to their Duty to God, their King, and their Countrey, without the conſent, nay, contrary to the declared Senſe and Judgment of the far greater part of all Orders and Degrees of Men in the Nation, in contempt of, and deſpite to all Law and Order, and to the unſpeakable Detriment of the Kingdom, preſum'd to Arraign, Condemn, and Murder him, who was by the Laws of the Realm inveſted with the Sovereignty.</p>
+            <p>The Conſequences of this Crime were very fatal to the Kingdom; no leſs than the entire Diſſolu<g ref="char:EOLhyphen"/>tion of the whole frame of our Government, the breaking in pieces the Eſtabliſh'd Church, the Con<g ref="char:EOLhyphen"/>fuſion of the State, great Injuries and Violences offer'd to Men of all Orders, with a Diſſettlement and Variation of Government for ſeveral Years fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <p>Amongſt the reſt, there was one very unhappy Conſequence, which was the Seed of divers others, even after we ſeem'd to be Reſettled; I mean, the cauſing the Princes to wander in Foreign Countries,
+<pb n="19" facs="tcp:54292:11"/>and ſome of them to learn their Religion and their Cuſtoms.</p>
+            <p>After all this Diſorder, it pleas'd God, in his due time, to reſtore the Royal Family, and this by his wonderful Providence in a peaceable manner, to the general Satisfaction and Joy of the Nation. But then 'tis a melancholy Thought, which may juſtly increaſe the Humiliation of this Day, how this di<g ref="char:EOLhyphen"/>vine Favour was entertain'd and improv'd by us.</p>
+            <p>Inſtead of Pious and grateful Returns to ſo Kind a Providence, the Nation took occaſion to dege<g ref="char:EOLhyphen"/>nerate into groſs Impiety, and all manner of vi<g ref="char:EOLhyphen"/>tious Practice; and to diſtinguiſh our ſelves from Men of the former times, who had been too juſtly charg'd with Hypocriſie, effectual Care was taken to run far enough into the other Extreme, by making our Vices ſufficiently conſpicuous and notorious.</p>
+            <p>For theſe things it pleas'd God to Viſit us in various Manners; and ſtill all along an evil Spirit of Contention continued to vex us, and to exaſpe<g ref="char:EOLhyphen"/>rate one againſt another, till we might become an eaſie Prey to a common Enemy; which was at laſt very near being effected, as the Natural and Juſt Conſequence both of our Sins in general, and our Contentions in particular.</p>
+            <p>In this Diſtreſs alſo it pleas'd God again to hear our Cries, and to raiſe up a Deliverer for us, to
+<pb n="20" facs="tcp:54292:12"/>reſcue us from thoſe great and apparent Dangers wherewith we were encompaſſed. But on ſuch an Occaſion as this, it may again be proper for us, both to conſider how we have demean'd our ſelves ſince this freſh Deliverance, and what we reſolve for the future.</p>
+            <p>We acknowledge this Day, and we do well, that we and our Fathers have ſinn'd againſt God and the Government. Now the moſt acceptable Repen<g ref="char:EOLhyphen"/>tance we can exerciſe, is to amend our Ways for the time to come. And,</p>
+            <p n="1">1. Let us <hi>fear the Lord;</hi> 'Tis the Duty of every one of us to comply heartily with this Direction our ſelves; and not only ſo, but in our reſpective Capacities, to promote alſo <hi>the Fear of God</hi> in the Kingdom to which we belong. In order to which end, it well becomes us to lay to heart the mighty increaſe of Irreligion and Immorality in the pre<g ref="char:EOLhyphen"/>ſent Age.</p>
+            <p>How many are there, even in this Chriſtian, this Proteſtant Countrey, a Nation which hath been bleſt with the greateſt Advantages, for the increaſe of Divine Knowledge, and the improvement of good Practice, and which has been laid under the ſtrongeſt Obligations by Divine Providence from one Generation to another, how many are there not<g ref="char:EOLhyphen"/>withſtanding all this, who not only diſcover a ma<g ref="char:EOLhyphen"/>nifeſt Neglect of God and of Religion; but preſume openly to bid defiance to the Almighty, to dare
+<pb n="21" facs="tcp:54292:12"/>the Power of Heaven againſt themſelves, by their horrid Blaſphemies, their impious Oaths and Impre<g ref="char:EOLhyphen"/>cations! who ſet at nought every thing which is Serious and Sacred! who having firſt declar'd their contempt of Reveal'd Religion by profeſſing Infi<g ref="char:EOLhyphen"/>delity, go on to teſtifie their diſregard to that which is Natural alſo, by a Practice directly contrary to all the Rules of Virtue and Morality! Whoſoever is toucht with an inward and ſerious ſenſe of Al<g ref="char:EOLhyphen"/>mighty God, cannot but be deeply affected with the Thoughts of theſe things. To reform this Scandal of the Age, is undoubtedly the Buſineſs, and will be the Glory and the Intereſt of thoſe, whom God hath entruſted with the Power of the Sword. For whilſt they controul theſe Enemies of Almighty God, they ſubdue the very worſt and moſt dangerous Enemies of themſelves and the Kingdom.</p>
+            <p n="2">2. Let us alſo <hi>fear the King;</hi> which is the rather to be urg'd, both as the proper Argument of the Day, and becauſe there are apparently two ſorts of Men amongſt us, who contradict this good Ad<g ref="char:EOLhyphen"/>vice.</p>
+            <p>Some there have been of late, who from fond and miſtaken Notions of Loyalty, have prov'd very miſchievouſly Diſloyal to the preſent Government; of whom I ſhall only ſay thus much, That 'tis a plain inſtance how far Prejudice and Paſſion may miſlead Men, even to the rendering them inſenſible of their Duty and their Intereſt at once; to the
+<pb n="22" facs="tcp:54292:13"/>making them guilty of great Diſingenuity and In<g ref="char:EOLhyphen"/>gratitude, both to God and the Inſtruments of his Providence, uneaſie on account of Bleſſings, and diſſatisfied with the only viſible Means which was left for our Deliverance. But, I hope, a little more time will wear out the remainders of theſe Pre<g ref="char:EOLhyphen"/>judices, at leaſt out of the Minds of thoſe who are endued with Honeſty and good Meaning.</p>
+            <p>There are a ſecond Sort, who I fear ſtill retain the dangerous Principles upon which the Fact of this Day was perpetrated; who, one would think, might have long ſince been brought to a better Mind, not only by obſerving the impracticableneſs of all their fooliſh Schemes of Government; but eſpecially by conſidering the Miſeries that atten<g ref="char:EOLhyphen"/>ded this Nation for ſo many Years together, whilſt they were attempting to ſet up what they ſtill ap<g ref="char:EOLhyphen"/>pear ſo unaccountably fond of.</p>
+            <p>Let us teſtifie our utter diſlike to theſe and all other diſloyal Principles and Practices, by being true to that excellent Form of Government, which is peculiar to our Nation, by yielding a chearful Obe<g ref="char:EOLhyphen"/>dience and Submiſſion to our Superiors, by laying aſide all our Prejudices and Factions, and thereby rendring the Management of the Government ea<g ref="char:EOLhyphen"/>ſie to thoſe who have the Charge of it; in a word, by reviving a Generous and Publick Spirit among us, which is ſo apparently and ſcandalouſly wanting at this time, that we may take up the Apoſtles Complaint,
+<note place="margin">Phil. 2.21.</note> 
+               <hi>All men ſeek their own things,</hi>
+               <pb n="23" facs="tcp:54292:13"/>not the things of God, of their King, and their Countrey.</p>
+            <p>Let us not go on to provoke God, who hath given us one Opportunity more of being an happy People, leſt he ſay to us, as he did once to the <hi>Iſ<g ref="char:EOLhyphen"/>raelites,</hi> after their proving incorrigible under many Trials and Deliverances;
+<note place="margin">Judges 10.10. <hi>&amp;c.</hi>
+               </note> 
+               <hi>Did not I deliver you from the Egyptians, and from the Amorites?</hi> &amp;c. <hi>yet ye have forſaken me. Wherefore I will deliver you no more. Go and cry unto the Gods which ye have cho<g ref="char:EOLhyphen"/>ſen, let them deliver you in the time of your Tribu<g ref="char:EOLhyphen"/>lation.</hi> Let us rather hearken to the Voice of Wiſ<g ref="char:EOLhyphen"/>dom, <hi>ſpeaking to us as to Children; My Son, fear thou the Lord and the King, and meddle not with them that are given to change.</hi>
+            </p>
+            <p>
+               <hi>Now to that great God, by whom Kings reign and Princes decree Juſtice; to that Supream Lord, who Governs the World with Wiſdom, and often prevents thoſe Diſorders which the Sins and Follies of Men ex<g ref="char:EOLhyphen"/>poſe them to; to him who makes Men to be of one Mind in an Houſe and in a Kingdom; to God, even our Father, and the Lord Jeſus Chriſt, with the Eternal Spirit, be all Praiſe and Glory now and for ever,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:54292:14"/>
+            <head>
+               <hi>Books Printed for</hi> Matt. Wottom <hi>at the</hi> Three Daggers <hi>in</hi> Fleet-ſtreet.</head>
+            <p>A Demonſtration of the Meſſias, in which the Truth of the Chriſtian Religion is Defended, eſpecially againſt the <hi>Jews;</hi> containing all that was Preached at the Lecture of the Honourable <hi>Robert Boyle,</hi> Eſq; By the Right Reverend Father in God <hi>Richard</hi> Lord Biſhop of <hi>Bath</hi> and <hi>Wells.</hi>
+            </p>
+            <p>— His Sermons Preached on ſeveral Occaſions. 8<hi rend="sup">o</hi>.</p>
+            <p>A Guide to the Devout Chriſtian, in Three Parts; con<g ref="char:EOLhyphen"/>taining Prayers for particular Perſons, for Families, and a Diſcourſe of the Sacrament.</p>
+            <p>The Chriſtian's-Pattern, in Four Books; written origi<g ref="char:EOLhyphen"/>nally in Latin by <hi>Thomas à Kempis.</hi> To which are added, Prayers and Meditations for Sick Perſons; By <hi>George Stan<g ref="char:EOLhyphen"/>hope,</hi> D.D. Chaplain in Ordinary to HIs Majeſty; in <hi>Octavo</hi> with Cuts, Sold for 5 <hi>s.</hi> The ſame Book printed in a Smaller letter. <hi>Price</hi> 2 s.</p>
+            <p>The Occaſional Paper, No. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.</p>
+            <p>The Heinouſneſs of Injuſtice; A Sermon Preached be<g ref="char:EOLhyphen"/>fore Mr. Juſtice <hi>Turton,</hi> at the Aſſizes held at <hi>Lincoln,</hi> 1698. By <hi>Laurence Echard,</hi> Chaplain to the Lord Biſhop of <hi>Lincoln.</hi>
+            </p>
+            <p>A Sormon preached at St. <hi>Paul</hi>'s Church the 2d of <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> laſt; being the Firſt, for this Year, of the Lecture, appointed by the Honourable <hi>Robert Boyle,</hi> Eſq; By <hi>Samuel Bradford,</hi> Rector of St. <hi>Mary le Bow.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
